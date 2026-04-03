@@ -1,0 +1,14 @@
+# Build artifacts
+*.pbo
+addons/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
